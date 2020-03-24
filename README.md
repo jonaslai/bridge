@@ -12,11 +12,7 @@ Como executar o projeto:
 Instalar node.js e yarn.
 
 Para rodar o backend:
-cd backend/
-yarn
-yarn start
+cd backend/ -> yarn -> yarn start
 
 Para rodar o frontend:
-cd frontend/
-yarn
-yarn start
+cd frontend/ -> yarn -> yarn start
